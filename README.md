@@ -10,6 +10,7 @@ it is clear that the urban city type has the highest total fare amount of the th
 
 When the summary dataframe is examined one can draw a conclusion about the average fares based on the provided data.
 ![This is an image](https://github.com/smwhng/PyBer_Analysis/blob/main/Analysis/DF_Analysis.PNG)
+
 The conclusion that can be drawn from the summary is that, despite urban areas having the highest total fares, the highest average per fare and per driver is in rural areas, followed by suburban areas. 
 
 ## Summary
